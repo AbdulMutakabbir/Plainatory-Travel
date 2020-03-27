@@ -12,7 +12,7 @@ A Flutter application showing a few TNS(Trans-Neptunian Objects) orbating the Su
 # Content
 
 * This application has a plainatory system as the main page. 
-  # <h6>Exploration Page</h6>
+  # Exploration Page<h6>
   ![Solar System Page / Exploration](https://github.com/SammSum1/Plainatory-Travel/blob/master/README/Gif/solar_system.gif)
   ![Intro image](https://github.com/SammSum1/Plainatory-Travel/blob/master/README/Gif/intro_with_click.gif)
   
